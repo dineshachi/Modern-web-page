@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> my web </title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+<div class="header">
+<div class="icon">
+<div class="social">
+<a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+<a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+<a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+<a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+</div>
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js "></script>
+</div>
+</div>
+<div class="container" style="width:53%; height:100vh; background-color:rgba(0,2,63,0.9";>
+<nav style="background-color:red";>
+   <img src="C:\Users\anvik\Desktop\modern webpage,ht,css\p4.png" class="logo1">
+   <img src="C:\Users\anvik\Desktop\modern webpage,ht,css\p5.png" class="logo2">
+   </nav>
+   <nav>
+   <img src="C:\Users\anvik\Desktop\modern webpage,ht,css\p6.png" class="logo3">
+   </nav> 
+
+</div>
+
+</div>
+<div class="rd">
+<h3 class="rt"> Ready </br>for</h3>
+<h1>wintter</h1>
+</div>
+<div class="yu" style="width:30%; height:2px; border-radius:2px solid white; background-color:green";>
+</div>
+<div style="color:white";>
+<h3 class="u">03</h3> <h3 class="i">07</h3>
+</div>
+</body>
+</html>
